@@ -18,6 +18,6 @@ The items are needed to be installed are in the prerequisites.txt </br>These are
 Download the git repository and download all the necessarily python packages from the prerequisites.txt</br>
 ## Running and Modification
 <br>
-Run the shooterproj.py and it works right out of the box
+Run the shoot.py and it works right out of the box
 **Modification**</br>
 If you want to change the servoPin variable to a different pin, change it to another Pulse Width Modulation pin for if its not a PWM pin it will start bugging out
