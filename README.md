@@ -5,6 +5,7 @@ When a user says a banned word (curse word or whatever is needed), it activates 
 * Servo Motor
 * Jumper Cables
 * USB Microphone; if using rpi 0w: OTG micro usb to usb and usb microphone
+* Crappy Dart gun, preferably $1 or from the dollar stores; they have little to no resistance on the trigger, which is good for the servo to shoot
 
 ## Prerequisties
 The items are needed to be installed are in the prerequisites.txt </br>These are needed for the speech recognition for the microphone to work
